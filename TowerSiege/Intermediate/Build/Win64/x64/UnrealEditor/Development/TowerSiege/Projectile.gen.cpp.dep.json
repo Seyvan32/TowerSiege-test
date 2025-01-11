@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\project\\tower siege\\towersiege\\intermediate\\build\\win64\\unrealeditor\\inc\\towersiege\\uht\\projectile.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\project\\tower siege\\towersiege\\intermediate\\build\\win64\\x64\\towersiegeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\project\\tower siege\\towersiege\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\towersiege\\definitions.towersiege.h",
+            "e:\\project\\tower siege\\towersiege\\source\\towersiege\\public\\projectile.h",
+            "e:\\project\\tower siege\\towersiege\\intermediate\\build\\win64\\unrealeditor\\inc\\towersiege\\uht\\projectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

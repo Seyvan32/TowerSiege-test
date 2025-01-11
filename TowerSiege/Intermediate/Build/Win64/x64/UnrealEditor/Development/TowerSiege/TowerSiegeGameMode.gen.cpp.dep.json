@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\project\\tower siege\\towersiege\\intermediate\\build\\win64\\unrealeditor\\inc\\towersiege\\uht\\towersiegegamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\project\\tower siege\\towersiege\\intermediate\\build\\win64\\x64\\towersiegeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\project\\tower siege\\towersiege\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\towersiege\\definitions.towersiege.h",
+            "e:\\project\\tower siege\\towersiege\\source\\towersiege\\towersiegegamemode.h",
+            "c:\\setups\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\setups\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\setups\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\setups\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "e:\\project\\tower siege\\towersiege\\intermediate\\build\\win64\\unrealeditor\\inc\\towersiege\\uht\\towersiegegamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

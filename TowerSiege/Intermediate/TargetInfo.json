@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TowerSiege",
+			"Path": "..\\Source\\TowerSiege.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TowerSiegeEditor",
+			"Path": "..\\Source\\TowerSiegeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

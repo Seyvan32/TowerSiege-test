@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Project/Tower Siege/TowerSiege/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/DR/OCVU8YG3TFFGMMBMWTU7VI.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/PP/0FWE1XT4SIGHXZQ61E0BPN.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/16/IU32BEDS8KCRBPZIQZ3317.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/7N/EXUVZTOOFW2W6GLQ3P3461.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/EJ/7JCMZ75LZ4IDNH7SV7SZBW.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/R1/ENMI5ZSH5EMTVMF7P7JJ6A.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/D3/60ORICH9SPD98P0GDB2WTP.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/1B/Z9KIZN9Y2PXBVF0YBHFYTL.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/6L/BX1MD4MTK46U2U5IL6VF4B.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/M5/2S0ICYCUTIK653O06ATB8T.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/AX/5EP9EXE8VFMFYQKZEFPRS8.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/Characters/Turret/TurretBP.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/TopDown/Maps/TopDownMap.umap",
+				"E:/Project/Tower Siege/TowerSiege/Content/Projectile/ProjectileBP.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/Characters/Enemy/BP_EnemySpawner.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/0I/8EGJJ38O4LE7LCUTUZAS6E.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/RZ/H4ILPBECCSZZ3OEGAXHF57.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/JD/5BHFU0IH6WKMJJHSUWD35N.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/Characters/Turret/Turret.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/K0/AVMDW21HE5CEKRNS0DA7RK.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/EK/K75411SFI66JADVMYUHSE9.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/1E/4Y8WX2VBX0O2F29MA2EFQ3.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/Z5/CT51ZMVM45K0XE3H3IEN6E.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/UB/YOMIFUVSBFZCNAEZXLIK5N.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/EA/CFM5Q53S1WTXZE2D8WNZG3.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/WX/5QM6K2GGCX5YO14Y6QBJ4C.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/R2/QH9S99IJ11XYP1Q6HIKILE.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/73/UVHWRURIUV7MNJFJVJ61SJ.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/DT/VK9K3LWM0J7UO8TVHOZPQ9.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/JQ/O3BQ2TUN2VQCVCL5OA4W7F.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/WT/9EB3EM9K49XRZB2CEEEXNN.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/W3/RNMLH0LC92F4NQBRIDJWY9.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/MZ/J2Q7VJB341YVU7JLBCAH3B.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/E1/PV1E7L48T15IS72GGCGK5Y.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/__ExternalObjects__/TopDown/Maps/TopDownMap/2/OD/JN9AMFHJ3BLRX4UL09MSAN.uasset",
+				"E:/Project/Tower Siege/TowerSiege/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/AP/FHQIN5FNXJIADT5B66DI3Y.uasset"
+			]
+		}
+	]
+}

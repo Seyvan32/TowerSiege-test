@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\project\\tower siege\\towersiege\\intermediate\\build\\win64\\unrealeditor\\inc\\towersiege\\uht\\towersiegecharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\project\\tower siege\\towersiege\\intermediate\\build\\win64\\x64\\towersiegeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\project\\tower siege\\towersiege\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\towersiege\\definitions.towersiege.h",
+            "e:\\project\\tower siege\\towersiege\\source\\towersiege\\towersiegecharacter.h",
+            "c:\\setups\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\setups\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\setups\\unreal engine\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\setups\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\setups\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\setups\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\setups\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\setups\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "e:\\project\\tower siege\\towersiege\\intermediate\\build\\win64\\unrealeditor\\inc\\towersiege\\uht\\towersiegecharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

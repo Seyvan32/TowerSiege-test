@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\project\\tower siege\\towersiege\\source\\towersiege\\private\\turret.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\project\\tower siege\\towersiege\\intermediate\\build\\win64\\x64\\towersiegeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\project\\tower siege\\towersiege\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\towersiege\\definitions.towersiege.h",
+            "e:\\project\\tower siege\\towersiege\\source\\towersiege\\public\\turret.h",
+            "e:\\project\\tower siege\\towersiege\\intermediate\\build\\win64\\unrealeditor\\inc\\towersiege\\uht\\turret.generated.h",
+            "c:\\setups\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.h",
+            "c:\\setups\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetmathlibrary.generated.h",
+            "c:\\setups\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,27 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TowerSiege.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Project\Tower Siege\TowerSiege\Intermediate\Build\Win64\x64\TowerSiegeEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"E:\Project\Tower Siege\TowerSiege\Intermediate\Build\Win64\x64\UnrealEditor\Development\TowerSiege\BaseTurrent.gen.cpp.obj"
+"E:\Project\Tower Siege\TowerSiege\Intermediate\Build\Win64\x64\UnrealEditor\Development\TowerSiege\EnemySpawner.gen.cpp.obj"
+"E:\Project\Tower Siege\TowerSiege\Intermediate\Build\Win64\x64\UnrealEditor\Development\TowerSiege\Projectile.gen.cpp.obj"
+"E:\Project\Tower Siege\TowerSiege\Intermediate\Build\Win64\x64\UnrealEditor\Development\TowerSiege\TowerSiege.init.gen.cpp.obj"
+"E:\Project\Tower Siege\TowerSiege\Intermediate\Build\Win64\x64\UnrealEditor\Development\TowerSiege\TowerSiegeCharacter.gen.cpp.obj"
+"E:\Project\Tower Siege\TowerSiege\Intermediate\Build\Win64\x64\UnrealEditor\Development\TowerSiege\TowerSiegeGameMode.gen.cpp.obj"
+"E:\Project\Tower Siege\TowerSiege\Intermediate\Build\Win64\x64\UnrealEditor\Development\TowerSiege\TowerSiegePlayerController.gen.cpp.obj"
+"E:\Project\Tower Siege\TowerSiege\Intermediate\Build\Win64\x64\UnrealEditor\Development\TowerSiege\Turret.gen.cpp.obj"
+"E:\Project\Tower Siege\TowerSiege\Intermediate\Build\Win64\x64\UnrealEditor\Development\TowerSiege\TowerSiege.cpp.obj"
+"E:\Project\Tower Siege\TowerSiege\Intermediate\Build\Win64\x64\UnrealEditor\Development\TowerSiege\TowerSiegeCharacter.cpp.obj"
+"E:\Project\Tower Siege\TowerSiege\Intermediate\Build\Win64\x64\UnrealEditor\Development\TowerSiege\TowerSiegeGameMode.cpp.obj"
+"E:\Project\Tower Siege\TowerSiege\Intermediate\Build\Win64\x64\UnrealEditor\Development\TowerSiege\TowerSiegePlayerController.cpp.obj"
+"E:\Project\Tower Siege\TowerSiege\Intermediate\Build\Win64\x64\UnrealEditor\Development\TowerSiege\BaseTurrent.cpp.obj"
+"E:\Project\Tower Siege\TowerSiege\Intermediate\Build\Win64\x64\UnrealEditor\Development\TowerSiege\EnemySpawner.cpp.obj"
+"E:\Project\Tower Siege\TowerSiege\Intermediate\Build\Win64\x64\UnrealEditor\Development\TowerSiege\Projectile.cpp.obj"
+"E:\Project\Tower Siege\TowerSiege\Intermediate\Build\Win64\x64\UnrealEditor\Development\TowerSiege\Turret.cpp.obj"
+"E:\Project\Tower Siege\TowerSiege\Intermediate\Build\Win64\x64\UnrealEditor\Development\TowerSiege\Default.rc2.res"
+/OUT:"E:\Project\Tower Siege\TowerSiege\Intermediate\Build\Win64\x64\UnrealEditor\Development\TowerSiege\UnrealEditor-TowerSiege.lib"
