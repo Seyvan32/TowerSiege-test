@@ -1,6 +1,6 @@
 # 🏰 Tower Siege
 
-**Tower Siege** is a fantasy-themed real-time strategy (RTS) and tower defense hybrid game built entirely in **Unreal Engine 5** using **C++**.
+**Tower Siege** is a real-time strategy (RTS) and tower defense game built entirely in **Unreal Engine 5** using **C++**.
 ---
 
 ## 🎮 Game Overview
